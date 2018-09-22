@@ -8,7 +8,7 @@ public class Quote {
     public String vers;
 
     public Quote() {
-        
+
     }
 
     public Quote(String title, String year, String quote, String chapter, String vers) {
